@@ -15,7 +15,7 @@ namespace RestoreMonarchy.SupplySignal
         public void LoadDefaults()
         {
             MessageColor = "yellow";
-            MessageIconUrl = string.Empty;
+            MessageIconUrl = "https://i.imgur.com/YBvLzj1.png";
             SupplyGrenadeId = 14950;
             AirdropDelay = 5;
             AirdropId = 23412;
