@@ -16,9 +16,9 @@ namespace RestoreMonarchy.SupplySignal
         {
             MessageColor = "yellow";
             MessageIconUrl = "https://i.imgur.com/YBvLzj1.png";
-            SupplyGrenadeId = 14950;
+            SupplyGrenadeId = 265;
             AirdropDelay = 5;
-            AirdropId = 23412;
+            AirdropId = 543;
             AirdropSpeed = 128;
             ShouldBroadcast = true;
         }
